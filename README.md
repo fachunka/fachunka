@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Kevan | User Interface Designer & Developer</h1>
 <h3 align="center">Aalto University Master's Graduate</h3>
 
+<!--
 
 - 🔭 I’m currently working on a **[Temporo-spatial Map Project](https://kevanmurtagh.com/map/)**
 
-<!-- - 🌱 I’m currently learning ****
+- 🌱 I’m currently learning ****
 
 - 🤝 I’m willing to learn [Angular](https://github.com/angular/angular)
 
