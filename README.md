@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋, I'm Kevan | User Interface Designer & Developer</h1>
-<h3 align="center">Aalto University Master's Graduate</h3>
+<h1 align="left">Hi there 👋, I'm Kevan</h1>
+<h3 align="left">User Interface Designer & Developer</h3>
+<h3 align="left">Aalto University Master's Graduate</h3>
 
 <!--
 
@@ -95,9 +96,9 @@ Here are some ideas to get you started:
 
 &nbsp;
 -->
-<h3 align="center">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/kevanmurtagh">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevanmurtagh" height="30" width="40" />
   </a>
