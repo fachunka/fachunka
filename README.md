@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="left">Hi there 👋, I'm Kevan</h1>
 <h3 align="left">User Interface Designer & Developer</h3>
-<h3 align="left">Aalto University Master's Graduate</h3>
+<h3 align="left">Aalto University Graduate</h3>
 
 <!--
 
