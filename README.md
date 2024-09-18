@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 - 📄 [Know about my experiences](https://toczekmj.github.io/CV/My_cv.pdf)
 
-- ⚡ Fun fact ** ** -->
+- ⚡ Fun fact ** ** 
 
 &nbsp;
-
+-->
 <!-- <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
