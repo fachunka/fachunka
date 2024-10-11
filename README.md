@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hi, I'm Kevan 🧍🏻‍♂️</h1>
+<h1 align="left">Hello. I'm Kevan 👨🏻</h1>
 <h3 align="left">User Interface Designer & Developer</h3>
 <h3 align="left">Aalto University Graduate</h3>
 
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ** **
 
-- 📫 How to reach me [**toczekmj@gmail.com**](mailto:toczekmj@gmail.com)
+- 📫 How to reach me [**kevanmurtagh@gmail.com**](mailto:kevanmurtagh@gmail.com)
 
-- 📄 [Know about my experiences](https://toczekmj.github.io/CV/My_cv.pdf)
+- 📄 [Know about my experiences](https://kevanmurtagh.com)
 
 - ⚡ Fun fact ** ** 
 
