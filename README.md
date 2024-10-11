@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hello, I'm Kevan 👨🏻</h1>
-<h3 align="left">User Interface Designer & Developer</h3>
-<h3 align="left">Aalto University Graduate</h3>
+<h1 align="left">Hello, I'm Kevan: 👨🏻</h1>
+<h3 align="left">User Interface Designer & Developer.</h3>
+<h3 align="left">Aalto University Graduate.</h3>
 
 <!--
 
