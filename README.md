@@ -12,15 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hello, I'm Kevan: </h1>
-<h3 align="left"> - Designer & Developer / Lovin'Life</h3>
-<!-- <h3 align="left"> - Lovin' Life</h3> -->
+<h1 align="left">Hello, I'm Kevan.</h1>
+<h3 align="left"> - Designer & Developer</h3>
+<h3 align="left"> - Lovin' Life</h3>
 <!-- <h3 align="left"> - Aalto University Graduate</h3> -->
 
 
 
 - I’m currently working on a **[Temporo-spatial Map Project](https://kevanmurtagh.com/map/)**
-- How to reach me [**kevan@kevanmurtagh.com**](mailto:kevan@kevanmurtagh.com)
+- Reach me: [**kevan@kevanmurtagh.com**](mailto:kevan@kevanmurtagh.com)
 - My Portfolio: [**kevanmurtagh.com**](https://kevanmurtagh.com)
 <!--
 
