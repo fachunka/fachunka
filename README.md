@@ -13,21 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hello, I'm Kevan: </h1>
-<h3 align="left"> - Designer & Developer</h3>
-<h3 align="left"> - Lovin' Life</h3>
+<h3 align="left"> - Designer & Developer / Lovin'Life</h3>
+<!-- <h3 align="left"> - Lovin' Life</h3> -->
 <!-- <h3 align="left"> - Aalto University Graduate</h3> -->
 
 
 
-- 🔭 I’m currently working on a **[Temporo-spatial Map Project](https://kevanmurtagh.com/map/)**
+- I’m currently working on a **[Temporo-spatial Map Project](https://kevanmurtagh.com/map/)**
+- How to reach me [**kevan@kevanmurtagh.com**](mailto:kevan@kevanmurtagh.com)
+- My Portfolio: [**kevanmurtagh.com**](https://kevanmurtagh.com)
 <!--
+
+- 🔭 I’m currently working on a **[Temporo-spatial Map Project](https://kevanmurtagh.com/map/)**
+
 - 🌱 I’m currently learning ****
 
 - 🤝 I’m willing to learn [Angular](https://github.com/angular/angular)
 
 - 💬 Ask me about ** **
-
-- 📫 How to reach me [**kevanmurtagh@gmail.com**](mailto:kevanmurtagh@gmail.com)
 
 - 📄 [Know about my experiences](https://kevanmurtagh.com)
 
