@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - I’m currently working on a **[Temporo-spatial Map Project](https://kevanmurtagh.com/map/)**
 - Reach me: [**kevan@kevanmurtagh.com**](mailto:kevan@kevanmurtagh.com)
-- My Portfolio: [**kevanmurtagh.com**](https://kevanmurtagh.com)
+- My website/portfolio: [**kevanmurtagh.com**](https://kevanmurtagh.com)
 <!--
 
 - 🔭 I’m currently working on a **[Temporo-spatial Map Project](https://kevanmurtagh.com/map/)**
